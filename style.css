@@ -1,0 +1,66 @@
+body {
+    margin:0;
+    
+    }
+    td{
+        width:5vw;
+        border:1px solid black;
+        text-align:center;
+    
+    }
+    .noborder{
+        border:none;
+    }
+    .headingone {
+        background-color: yellow;
+        padding:5px;
+        font-size: 60px;
+    }
+    .h{
+        background-color:rgb(236, 229, 230);
+    }
+    .purple{
+        background-color: plum;
+    }
+    .blue{
+        background-color:skyblue;
+    }
+        
+    .yellow{
+        background-color:rgb(249, 231, 159);
+    }
+    .gray{
+        background-color: rgb(209, 207, 218);
+    }
+    .blue1{
+        background-color:rgb(230, 230, 248) ;
+    }
+    .lightbrown{
+        background-color:rgba(243, 194, 103, 0.699) ;
+    }
+    .darkpink{
+        background-color: lightsalmon;
+    }
+    .darkbrown{
+        background-color:rgb(207, 137, 57) ;
+    }
+    .green{
+        background-color: rgb(170, 241, 99);
+    }
+    .light{
+        background-color: rgba(255, 243, 195, 0.801);
+    }
+    .padding{
+        padding-top: 10px;
+        margin-left: 300px;
+        margin-right: 250px;
+    }
+    .margin{
+        margin-left: 200px;
+        margin-right: 200px;
+    }
+    .color{
+        background-color: cyan;
+        
+    }
+    }
